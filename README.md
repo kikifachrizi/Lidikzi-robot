@@ -32,7 +32,7 @@ Proyek Lidikzi Robot ini bertujuan untuk menciptakan sistem robotika yang dapat 
 7. **Mode Brake otomatis:** Jika tidak ada data dari tablet dalam 2 detik, sistem akan otomatis masuk *brake mode*.
 
 ## Gambar Dokumentasi
-![Lidikzi Robot Preview]([https://dokumentasi/IMG-20241010-WA0011.jpg](https://github.com/kikifachrizi/Lidikzi-robot/blob/main/dokumentasi/IMG-20241010-WA0011.jpg))  
+![Lidikzi Robot](dokumentasi/IMG-20241010-WA0011.jpg)  
 *Contoh gambar dari Lidikzi Robot.*
 
 ## Instalasi
