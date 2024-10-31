@@ -6,8 +6,6 @@
 
 Proyek Lidikzi Robot ini bertujuan untuk menciptakan sistem robotika yang dapat dikontrol secara nirkabel menggunakan ROS (Robot Operating System). Proyek ini memungkinkan kontrol robot secara presisi dalam lingkungan yang memerlukan navigasi independen.
 
-## Pengembang
-
 ## Pengembang 👥
 
 - **Rifqy Fachrizi** ⚡  
