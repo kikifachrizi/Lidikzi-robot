@@ -6,6 +6,40 @@
 
 Proyek Lidikzi Robot ini bertujuan untuk menciptakan sistem robotika yang dapat dikontrol secara nirkabel menggunakan ROS (Robot Operating System). Proyek ini memungkinkan kontrol robot secara presisi dalam lingkungan yang memerlukan navigasi independen.
 
+## Pengembang
+
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://via.placeholder.com/100" width="100" height="100" alt="Rifqy Fachrizi"/>
+        <br>
+        <b>Rifqy Fachrizi</b>
+        <br>
+        Electrical and Motion Programmer
+        <br>
+        Robot Developer
+        <br>
+        <a href="https://github.com/username">GitHub</a> • <a href="https://linkedin.com/in/username">LinkedIn</a>
+      </td>
+      <td align="center">
+        <img src="https://via.placeholder.com/100" width="100" height="100" alt="Adrian Jotham"/>
+        <br>
+        <b>Adrian Jotham</b>
+        <br>
+        Wireless and ROS Programmer
+        <br>
+        Robot Developer
+        <br>
+        <a href="https://github.com/username">GitHub</a> • <a href="https://linkedin.com/in/username">LinkedIn</a>
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+
 ## Daftar Isi
 - [Fitur Utama](#fitur-utama)
 - [Catatan Pemakaian](#catatan-pemakaian)
