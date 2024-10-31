@@ -8,36 +8,18 @@ Proyek Lidikzi Robot ini bertujuan untuk menciptakan sistem robotika yang dapat 
 
 ## Pengembang
 
-<div align="center">
-  
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://via.placeholder.com/100" width="100" height="100" alt="Rifqy Fachrizi"/>
-        <br>
-        <b>Rifqy Fachrizi</b>
-        <br>
-        Electrical and Motion Programmer
-        <br>
-        Robot Developer
-        <br>
-        <a href="https://github.com/username">GitHub</a> • <a href="https://linkedin.com/in/username">LinkedIn</a>
-      </td>
-      <td align="center">
-        <img src="https://via.placeholder.com/100" width="100" height="100" alt="Adrian Jotham"/>
-        <br>
-        <b>Adrian Jotham</b>
-        <br>
-        Wireless and ROS Programmer
-        <br>
-        Robot Developer
-        <br>
-        <a href="https://github.com/username">GitHub</a> • <a href="https://linkedin.com/in/username">LinkedIn</a>
-      </td>
-    </tr>
-  </table>
-  
-</div>
+## Pengembang 👥
+
+- **Rifqy Fachrizi** ⚡  
+  *Electrical and Motion Programmer*  
+  Robot Developer  
+  [GitHub](https://github.com/kikifachrizi) • [LinkedIn](https://linkedin.com/in/rifqyfachrizi)
+
+- **Adrian Jotham** 📡  
+  *Wireless and ROS Programmer*  
+  Robot Developer  
+  [GitHub](https://github.com/username) • [LinkedIn](https://linkedin.com/in/username)
+
 
 
 ## Daftar Isi
