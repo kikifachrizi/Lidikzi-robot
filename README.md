@@ -57,7 +57,7 @@ Proyek Lidikzi Robot ini bertujuan untuk menciptakan sistem robotika yang dapat 
 9. **Putus Koneksi** Sistem Failsafe dapat terjadi jika robot tidak terkoneksi dengan aplikasi GCS. Dapat diihat dnegan lampu berkedip pada robot.
 
 ## Gambar Dokumentasi
-![Lidikzi Robot](dokumentasi/IMG-20241010-WA0011.jpg)  
+![Lidikzi Robot](dokumentasi/Finished/Demo.mp4)  
 *Contoh gambar dari Lidikzi Robot.*
 
 ## Instalasi
