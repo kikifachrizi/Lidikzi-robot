@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 [![Version](https://img.shields.io/badge/version-1.0-blue)](https://github.com/username/repo)
 
-Proyek Lidikzi Robot ini bertujuan untuk menciptakan sistem robotika yang dapat dikontrol secara nirkabel menggunakan ROS (Robot Operating System). Proyek ini memungkinkan kontrol robot secara presisi dalam lingkungan yang memerlukan navigasi independen.
+Proyek Lidikzi Robot ini bertujuan untuk menciptakan sistem robotika yang dapat dikontrol secara nirkabel menggunakan ROS (Robot Operating System) dan juga Serial Radio Frequency Telemetry 433Mhz. Proyek ini memungkinkan kontrol robot secara presisi dalam lingkungan yang memerlukan navigasi independen.
 
 ## Pengembang 👥
 
@@ -31,10 +31,10 @@ Proyek Lidikzi Robot ini bertujuan untuk menciptakan sistem robotika yang dapat 
 
 ## Fitur Utama
 - 🚗 Pergerakan: Maju, Mundur, Steering, dan Elevasi.
-- 📡 Dikontrol melalui komunikasi WiFi menggunakan ROS2.
+- 📡 Dikontrol melalui komunikasi WiFi menggunakan ROS2 / Serial RF Telemetry433Mhz (melalui aplikasi).
 - 🛠️ Sistem kontrol independen untuk setiap motor.
 - ⏱️ Frekuensi publikasi perintah kontrol sebesar 20Hz.
-- 🔄 Sistem otomatis masuk *brake mode* jika tidak ada data selama 2 detik.
+- 🔄 Sistem otomatis masuk *brake mode* dan *lampu berkedip* jika tidak ada data selama 2 detik.
 
 ## Catatan Pemakaian mode ROS
 1. **Kontrol independen:** Tekan tombol `n` untuk mengontrol motor yang ingin dikoreksi (1-8). Atur *trim* dengan tombol `i/o`.
