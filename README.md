@@ -60,6 +60,10 @@ Proyek Lidikzi Robot ini bertujuan untuk menciptakan sistem robotika yang dapat 
 ![Lidikzi Robot](dokumentasi/Finished/3.jpg)  
 *Contoh gambar dari Lidikzi Robot.*
 
+## Source Gambar Dokumentasi
+   ```bash
+   https://drive.google.com/drive/folders/1XRmgHzAEjGCR5ZSxdYLdgjaEB0IolctK?usp=drive_link
+
 ## Instalasi
 1. Clone repository:
    ```bash
